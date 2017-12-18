@@ -48,3 +48,37 @@
     top: 0px;
     left: 0px;
 }
+
+.site-name {
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.site-name h1 {
+    font-weight: 900;
+    font-variant: small-caps;
+    margin: 0;
+    font-size: 35px;
+}
+
+.site-name h4 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-header {
+    padding: 0;
+}
+
+.my-image {
+    background: url("../images/typewriter-bg.jpg") center top no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 400px;
+}
